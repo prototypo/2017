@@ -2,7 +2,7 @@
 	padding: 15px 0 0 0;
 	margin: auto;
 }
-a:before { /* Just to give a little puddle of a shadow without adding another element */
+.shadow:before { /* Just to give a little puddle of a shadow without adding another element */
 	content: '';
     display: block;
     width: 80%;
